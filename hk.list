@@ -1,0 +1,14 @@
+DOMAIN-SUFFIX,akamaihd.net
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,boltdns.net
+DOMAIN-SUFFIX,brightcove.com
+DOMAIN-KEYWORD,nowtv100
+DOMAIN-KEYWORD,rthklive
+DOMAIN-SUFFIX,mytvsuper.com
+DOMAIN-SUFFIX,tvb.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,viu.com
+DOMAIN-SUFFIX,gvt1.com
+PROCESS-NAME,viu
+USER-AGENT,viu*
